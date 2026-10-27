@@ -1,0 +1,7 @@
+/flutter/
+**/node_modules/
+**/.env
+**/users.db
+**/build/
+**/.dart_tool/
+**/.flutter-plugins-dependencies
